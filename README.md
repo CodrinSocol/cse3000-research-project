@@ -2,6 +2,9 @@
 
 This repository contains all the code to run experiments and generate plots for the *Non-Monotonicity in Empirical Learning Curves - Identifying non-monotonicity through anchor-point slope approximation* research project. This paper has been produced as part of the CSE3000 - Research Project course at Delft University of Technology, The Netherlands.
 
+This research builds on top of the LCDB repository, which can be found [here](https://github.com/fmohr/lcdb).
+
+
 **Author:** Codrin Socol *(C.Socol@student.tudelft.nl)*
 
 ### 1. Install dependencies
